@@ -1,0 +1,1 @@
+function Close() { var e = document.getElementById("Mask_Group_3"); e.style.display = "none"}

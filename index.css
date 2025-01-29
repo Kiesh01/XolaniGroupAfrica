@@ -1,0 +1,2046 @@
+.mediaViewInfo {
+	--web-view-name: index;
+	--web-view-id: index;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: index;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#index {
+	position: absolute;
+	width: 1920px;
+	height: 6350px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: index;
+	--web-view-id: index;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#kevin-vision--NUxh4Xop74-unspl {
+	opacity: 0.3;
+	position: absolute;
+	width: 1490px;
+	height: 798px;
+	left: 215px;
+	top: 2653px;
+	overflow: visible;
+}
+#Mask_Group_1 {
+	opacity: 0.25;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 1440;
+	height: 551;
+	left: 240px;
+	top: 110px;
+	overflow: visible;
+
+}
+#XOLANI {
+	left: 276px;
+	top: 183px;
+	position: absolute;
+	overflow: visible;
+	width: 123px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(128,0,0,1);
+	letter-spacing: 0.5px;
+}
+#Group {
+	left: 337px;
+	top: 217px;
+	position: absolute;
+	overflow: visible;
+	width: 56px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 0.5px;
+}
+#Crafting_Innovative_Spaces_One {
+	left: 255px;
+	top: 352px;
+	position: absolute;
+	overflow: visible;
+	width: 1098px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -10px;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 0.5px;
+}
+#Line_1 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 146.007px;
+	left: 953px;
+	top: 809px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_2 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 146.007px;
+	left: 1588px;
+	top: 785px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_3 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_3 {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 146.007px;
+	left: 337px;
+	top: 809px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Space_Designs {
+	left: 254px;
+	top: 680px;
+	position: absolute;
+	overflow: visible;
+	width: 379px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -20px;
+	text-align: left;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 0.5px;
+}
+#Single__Dwelling {
+	left: 573px;
+	top: 795px;
+	position: absolute;
+	overflow: visible;
+	width: 218px;
+	white-space: nowrap;
+	line-height: 60px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#Discover_a_meticulously_design {
+	left: 547px;
+	top: 944px;
+	position: absolute;
+	overflow: visible;
+	width: 372px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#Flat_Roof_House {
+	left: 1202px;
+	top: 795px;
+	position: absolute;
+	overflow: visible;
+	width: 377px;
+	white-space: nowrap;
+	line-height: 60px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#flatroof {
+	position: absolute;
+	width: 139px;
+	height: 140px;
+	left: 990px;
+	top: 809px;
+	overflow: visible;
+}
+#Experience_modern_living_in_a_ {
+	left: 1152px;
+	top: 944px;
+	position: absolute;
+	overflow: visible;
+	width: 352px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#roomsnip {
+	position: absolute;
+	width: 139px;
+	height: 140px;
+	left: 367px;
+	top: 809px;
+	overflow: visible;
+}
+#Polygon_1 {
+	fill: rgba(255,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_1 {
+	overflow: visible;
+	position: absolute;
+	width: 53px;
+	height: 36px;
+	transform: matrix(1,0,0,1,413,866) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Polygon_2 {
+	fill: rgba(255,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_2 {
+	overflow: visible;
+	position: absolute;
+	width: 53px;
+	height: 36px;
+	transform: matrix(1,0,0,1,1033,866) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Line_4 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_4 {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 146.007px;
+	left: 958px;
+	top: 1071px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_5 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_5 {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 146.007px;
+	left: 1588px;
+	top: 1073px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_6 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_6 {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 146.007px;
+	left: 342px;
+	top: 1071px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Single__Dwelling_ {
+	left: 578px;
+	top: 1057px;
+	position: absolute;
+	overflow: visible;
+	width: 218px;
+	white-space: nowrap;
+	line-height: 60px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#Discover_a_meticulously_design_ {
+	left: 552px;
+	top: 1206px;
+	position: absolute;
+	overflow: visible;
+	width: 372px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#Flat_Roof_House_ {
+	left: 1207px;
+	top: 1057px;
+	position: absolute;
+	overflow: visible;
+	width: 377px;
+	white-space: nowrap;
+	line-height: 60px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#flatroof_ {
+	position: absolute;
+	width: 139px;
+	height: 140px;
+	left: 995px;
+	top: 1071px;
+	overflow: visible;
+}
+#Experience_modern_living_in_a__ {
+	left: 1157px;
+	top: 1206px;
+	position: absolute;
+	overflow: visible;
+	width: 352px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#closeroom{
+
+}
+#close{
+	margin-bottom: 10px;
+
+}
+#roomsnip_ {
+	position: absolute;
+	width: 139px;
+	height: 140px;
+	left: 372px;
+	top: 1071px;
+	overflow: visible;
+}
+#Polygon_3 {
+	fill: rgba(255,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_3 {
+	overflow: visible;
+	position: absolute;
+	width: 53px;
+	height: 36px;
+	transform: matrix(1,0,0,1,418,1128) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Polygon_4 {
+	fill: rgba(255,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_4 {
+	overflow: visible;
+	position: absolute;
+	width: 53px;
+	height: 36px;
+	transform: matrix(1,0,0,1,1038,1128) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#see_more {
+	position: absolute;
+	width: 344px;
+	height: 57px;
+	left: 788px;
+	top: 1310px;
+	overflow: visible;
+	transition: all 0.5s ease-in;
+	--web-animation: fadein 0.5s ease-in;
+	--web-action-type: page;
+	--web-action-target: index___2.html;
+	cursor: pointer;
+}
+
+#see_more:hover{
+   position: absolute;
+	width: 344px;
+	height: 57px;
+	left: 788px;
+	top: 1300px;
+	overflow: visible;
+	transition: all 0.5s ease-in;
+	--web-animation: fadein 0.5s ease-in;
+	--web-action-type: page;
+	--web-action-target: index___2.html;
+	cursor: pointer;
+}
+
+#Rectangle_2 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 362px;
+	height: 75px;
+	left: 0px;
+	top: 0px;
+}
+#See_More_bb {
+	left: 100px;
+	top: 11px;
+	position: absolute;
+	overflow: visible;
+	width: 245px;
+	white-space: nowrap;
+	line-height: 60px;
+	margin-top: -15px;
+	text-align: left;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#Do_you_need_a_Project_Plan_ {
+	left: 489px;
+	top: 1404px;
+	position: absolute;
+	overflow: visible;
+	width: 943px;
+	white-space: nowrap;
+	line-height: 60px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(128,0,0,1);
+	letter-spacing: 0.5px;
+}
+# {
+	left: 1042px;
+	top: 1447px;
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 150px;
+	color: rgba(128,0,0,1);
+	letter-spacing: 0.5px;
+}
+#REACH__OUT {
+	left: 858px;
+	top: 1483px;
+	position: absolute;
+	overflow: visible;
+	width: 205px;
+	white-space: nowrap;
+	line-height: 60px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(128,0,0,1);
+	letter-spacing: 0.5px;
+}
+#Line_7 {
+	fill: transparent;
+	stroke: rgba(255,165,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_7 {
+	overflow: visible;
+	position: absolute;
+	width: 497px;
+	height: 1px;
+	left: 240.5px;
+	top: 1338.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_8 {
+	fill: transparent;
+	stroke: rgba(255,165,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_8 {
+	overflow: visible;
+	position: absolute;
+	width: 497px;
+	height: 1px;
+	left: 240.5px;
+	top: 1338.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_9 {
+	fill: transparent;
+	stroke: rgba(255,165,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_9 {
+	overflow: visible;
+	position: absolute;
+	width: 497px;
+	height: 1px;
+	left: 1186px;
+	top: 1338.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#avatars {
+	position: absolute;
+	width: 1306px;
+	height: 355px;
+	left: 347px;
+	top: 1622px;
+	overflow: visible;
+}
+#ID360_F_320858745_cvEcPFseM1p3 {
+	position: absolute;
+	width: 738px;
+	height: 332px;
+	left: 568px;
+	top: 23px;
+	overflow: visible;
+}
+#architectural-drafting-service {
+	position: absolute;
+	width: 631px;
+	height: 353px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#architectural-drafting-service_bl {
+	opacity: 0.62;
+	position: absolute;
+	width: 1096px;
+	height: 579px;
+	left: 392px;
+	top: 2026px;
+	overflow: visible;
+}
+#Button {
+	position: absolute;
+	width: 131px;
+	height: 48px;
+	left: 437px;
+	top: 2212px;
+	overflow: visible;
+}
+
+#Button:hover{
+	position: absolute;
+	width: 131px;
+	height: 48px;
+	left: 437px;
+	top: 2200px;
+	overflow: visible;
+	transition: all 0.5s ease-in;
+	--web-animation: fadein 0.5s ease-in;
+	--web-action-type: page;
+	--web-action-target: index___2.html;
+	cursor: pointer;
+}
+#Rectangle_3 {
+	fill: rgba(255,165,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 149px;
+	height: 66px;
+	left: 0px;
+	top: 0px;
+}
+#Inquire {
+	left: 18px;
+	top: 6px;
+	position: absolute;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+
+
+#Have_a_one-on-one_conversation {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 651px;
+	top: 2316px;
+	position: absolute;
+	overflow: visible;
+	width: 829px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 0.5px;
+}
+#ABOUT_US {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 320px;
+	top: 2673px;
+	position: absolute;
+	overflow: visible;
+	width: 332px;
+	white-space: nowrap;
+	line-height: 60px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(128,0,0,1);
+	letter-spacing: 0.5px;
+}
+#Xolani_Construction_and_Archit {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 240px;
+	top: 2767px;
+	position: absolute;
+	overflow: visible;
+	width: 1441px;
+	height: 870px;
+	text-align: left;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+#bigconstruct {
+	position: absolute;
+	width: 559px;
+	height: 483px;
+	left: 1062px;
+	top: 2913px;
+	overflow: visible;
+}
+#Pngtreegeometry_shape_text_box {
+	position: absolute;
+	width: 459px;
+	height: 459px;
+	left: 731px;
+	top: 3489px;
+	overflow: visible;
+}
+#Line_10 {
+	fill: transparent;
+	stroke: rgba(255,165,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_10 {
+	overflow: visible;
+	position: absolute;
+	width: 497px;
+	height: 1px;
+	left: 214px;
+	top: 3686px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_11 {
+	fill: transparent;
+	stroke: rgba(255,165,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_11 {
+	overflow: visible;
+	position: absolute;
+	width: 497px;
+	height: 1px;
+	left: 1208px;
+	top: 3686px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#user_2 {
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	left: 816px;
+	top: 3592px;
+	overflow: visible;
+}
+#Mr_John_Gitonga__Director {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	transform: matrix(1,0,0,1,924.2092,3606.007) rotate(3deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 195px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1.5px;
+}
+#At_Xolani_we_dont_just_build_s {
+	transform: matrix(1,0,0,1,803,3691.3285) rotate(5deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 317px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1px;
+}
+#Projects_Completed_20_ {
+	left: 218px;
+	top: 3280px;
+	position: absolute;
+	overflow: visible;
+	width: 238px;
+	height: 95px;
+	line-height: 60px;
+	margin-top: -20px;
+	text-align: center;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 0.5px;
+}
+#dena-skulskaya-5SwSKuH5aH8-uns {
+	opacity: 0.17;
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 538px;
+	height: 570px;
+	left: 320px;
+	top: 3924px;
+	overflow: visible;
+}
+#glenn-diaz-qZanUpmMrdk-unsplas {
+	opacity: 0.17;
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 538px;
+	height: 570px;
+	left: 960px;
+	top: 3924px;
+	overflow: visible;
+}
+#Rectangle_6 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_6 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 208px;
+	height: 217px;
+	left: 363px;
+	top: 3976px;
+}
+#Rectangle_7 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_7 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 208px;
+	height: 217px;
+	left: 1000px;
+	top: 3976px;
+}
+#Mr_John_Gitonga__Ass_Director {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	transform: matrix(1,0,0,1,607.248,4054.5) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 195px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1.5px;
+}
+#Mr_John_Gitonga__Manager {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	transform: matrix(1,0,0,1,1244.248,4061.5) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 195px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1.5px;
+}
+#With_over_10_years_of_experien {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	transform: matrix(1,0,0,1,336,4194) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 512px;
+	height: 450px;
+	text-align: left;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1.5px;
+}
+#Managers_Name_is_a_cornerstone {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	transform: matrix(1,0,0,1,984,4189) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 512px;
+	height: 300px;
+	text-align: left;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1.5px;
+}
+#Line_12 {
+	fill: transparent;
+	stroke: rgba(255,165,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_12 {
+	overflow: visible;
+	position: absolute;
+	width: 497px;
+	height: 1px;
+	left: 711.5px;
+	top: 4669px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Write_a_Review_ {
+	left: 350px;
+	top: 5423px;
+	position: absolute;
+	overflow: visible;
+	width: 452px;
+	white-space: nowrap;
+	line-height: 60px;
+	margin-top: -15px;
+	text-align: left;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(128,0,0,1);
+	letter-spacing: 0.5px;
+}
+#Rectangle_8 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_8 {
+	position: absolute;
+	overflow: visible;
+	width: 571px;
+	height: 645px;
+	left: 320px;
+	top: 5514px;
+}
+
+#Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 299px;
+	height: 40px;
+	left: 350px;
+	top: 5560px;
+	border-style: solid;
+	border-radius: 10px;
+	padding:5px;
+}
+
+#Rectangle_10 {
+	position: absolute;
+	overflow: visible;
+	width: 299px;
+	height: 40px;
+	left: 350px;
+	top: 5659px;
+	border-style: solid;
+	border-radius: 10px;
+	padding:5px;
+}
+
+
+#Rectangle_11 {
+	position: absolute;
+	overflow: visible;
+	width: 501px;
+	height: 192px;
+	left: 353px;
+	top: 5755px;
+	border-style: solid;
+	border-radius: 10px;
+	padding:10px;
+}
+
+#Rectangle_12 {
+	position: absolute;
+	overflow: visible;
+	width: 136px;
+	height: 54px;
+	left: 711px;
+	top: 6000px;
+	
+	overflow: visible;
+	
+	line-height: 60px;
+	
+    text-align: center;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 0.5px;
+	border-style: solid;
+	border-radius: 10px;
+	cursor: pointer;
+}
+
+#Full_Name {
+	left: 333px;
+	top: 5533px;
+	position: absolute;
+	overflow: visible;
+	width: 154px;
+	height: 39px;
+	line-height: 60px;
+	margin-top: -20px;
+	text-align: center;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 0.5px;
+}
+#Email {
+	left: 336px;
+	top: 5631px;
+	position: absolute;
+	overflow: visible;
+	width: 110px;
+	height: 47px;
+	line-height: 60px;
+	margin-top: -20px;
+	text-align: center;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 0.5px;
+}
+#Rectangle_13 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_13 {
+	position: absolute;
+	overflow: visible;
+	width: 484px;
+	height: 165px;
+	left: 1065px;
+	top: 5514px;
+}
+#Rectangle_14 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_14 {
+	position: absolute;
+	overflow: visible;
+	width: 484px;
+	height: 165px;
+	left: 1062px;
+	top: 5760px;
+}
+#Rectangle_15 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_15 {
+	position: absolute;
+	overflow: visible;
+	width: 484px;
+	height: 165px;
+	left: 1062px;
+	top: 6012px;
+}
+#user_2_cl {
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	left: 1082px;
+	top: 5551px;
+	overflow: visible;
+}
+#user_2_cm {
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	left: 1082px;
+	top: 5791px;
+	overflow: visible;
+}
+#user_2_cn {
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	left: 1082px;
+	top: 6045px;
+	overflow: visible;
+}
+#Full_Name_co {
+	left: 1151px;
+	top: 5537px;
+	position: absolute;
+	overflow: visible;
+	width: 154px;
+	height: 39px;
+	line-height: 60px;
+	margin-top: -20px;
+	text-align: center;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 0.5px;
+}
+#Full_Name_cp {
+	left: 1151px;
+	top: 5788px;
+	position: absolute;
+	overflow: visible;
+	width: 154px;
+	height: 39px;
+	line-height: 60px;
+	margin-top: -20px;
+	text-align: center;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 0.5px;
+}
+#Full_Name_cq {
+	left: 1151px;
+	top: 6045px;
+	position: absolute;
+	overflow: visible;
+	width: 154px;
+	height: 39px;
+	line-height: 60px;
+	margin-top: -20px;
+	text-align: center;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 0.5px;
+}
+#At_Xolani_we_dont_just_build_s_cr {
+	left: 1179px;
+	top: 5575px;
+	position: absolute;
+	overflow: visible;
+	width: 317px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1px;
+}
+#At_Xolani_we_dont_just_build_s_cs {
+	left: 1179px;
+	top: 5827px;
+	position: absolute;
+	overflow: visible;
+	width: 317px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1px;
+}
+#At_Xolani_we_dont_just_build_s_ct {
+	left: 1179px;
+	top: 6084px;
+	position: absolute;
+	overflow: visible;
+	width: 317px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1px;
+}
+#logo {
+	position: absolute;
+	width: 94px;
+	height: 94px;
+	left: 1650px;
+	top: 5720px;
+	overflow: visible;
+}
+#Button_cv {
+	position: absolute;
+	width: 231px;
+	height: 48px;
+	left: 1135px;
+	top: 1513px;
+	overflow: visible;
+}
+
+#Button_cv:hover{
+	position: absolute;
+	width: 231px;
+	height: 48px;
+	left: 1135px;
+	top: 1513px;
+	overflow: visible;
+	transition: all 0.5s ease-in;
+	--web-animation: fadein 0.5s ease-in;
+	--web-action-type: page;
+	--web-action-target: index___2.html;
+	cursor: pointer;
+}
+
+#Rectangle_3_cw {
+	fill: rgba(255,165,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3_cw {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 249px;
+	height: 66px;
+	left: 0px;
+	top: 0px;
+}
+#Contact_Sales {
+	left: 20px;
+	top: 8px;
+	position: absolute;
+	overflow: visible;
+	width: 182px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+
+}
+#contact_sales{
+	position: absolute;
+	left: 675px;
+	top: 1302px;
+	width: 571px;
+	height: 700px;
+	overflow: visible;
+	width: 29px;
+	height: 29px;
+	overflow: visible;
+	display:none;
+}
+#closes {
+	position: absolute;
+	width: 571px;
+	height: 645px;
+	
+	
+	display: block;
+}
+#Rectangle_8_cz {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_8_cz {
+	position: absolute;
+	overflow: visible;
+	width: 571px;
+	height: 645px;
+	left: 0px;
+	top: 0px;
+}
+
+#fullname {
+	position: absolute;
+	overflow: visible;
+	width: 299px;
+	height: 40px;
+	left: 27px;
+	top: 81px;
+	border-style: solid;
+	border-radius: 10px;
+	padding: 10px;
+}
+
+
+#email_id {
+	position: absolute;
+	overflow: visible;
+	width: 299px;
+	height: 40px;
+	left: 27px;
+	top: 188px;
+	border-style: solid;
+	border-radius: 10px;
+	padding: 10px;
+
+
+}
+
+#message {
+	position: absolute;
+	overflow: visible;
+	width: 501px;
+	height: 192px;
+	left: 32px;
+	top: 305px;
+	padding: 10px;
+	border-style: solid;
+	border-radius: 10px;
+
+}
+#Full_Name_c {
+	left: 11px;
+	top: 46px;
+	position: absolute;
+	overflow: visible;
+	width: 154px;
+	height: 39px;
+	line-height: 60px;
+	margin-top: -20px;
+	text-align: center;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 0.5px;
+}
+#Email_c {
+	left: 23px;
+	top: 162px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	height: 47px;
+	line-height: 60px;
+	margin-top: -20px;
+	text-align: center;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 0.5px;
+}
+#Message {
+	left: 27px;
+	top: 275px;
+	position: absolute;
+	overflow: visible;
+	width: 110px;
+	height: 47px;
+	line-height: 60px;
+	margin-top: -20px;
+	text-align: center;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 0.5px;
+}
+
+#Rectangle_23 {
+	position: absolute;
+	overflow: visible;
+	width: 136px;
+	height: 54px;
+	left: 400px;
+	top: 544px;
+	margin-top: -20px;
+	padding: 10px;
+	text-align: center;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 0.5px;
+	border-style: solid;
+	border-radius: 10px;
+	cursor: pointer;
+}
+
+#Field_Empty {
+	left: 27px;
+	top: 125px;
+	position: absolute;
+	overflow: visible;
+	width: 250px;
+	height: 27px;
+	line-height: 60px;
+	margin-top: -21px;
+	text-align: center;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(179,58,58,1);
+	letter-spacing: 0.5px;
+	text-align: left;
+	
+
+}
+#Field_Empty_c {
+	left: 27px;
+	top: 233px;
+	position: absolute;
+	overflow: visible;
+	width: 250px;
+	height: 27px;
+	line-height: 60px;
+	margin-top: -21px;
+	text-align: center;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(179,58,58,1);
+	letter-spacing: 0.5px;
+	text-align: left;
+	padding:10px;
+	
+}
+#Field_Empty_v{
+	left: 27px;
+	top: 273px;
+	position: absolute;
+	overflow: visible;
+	width: 250px;
+	height: 27px;
+	line-height: 60px;
+	margin-top: -21px;
+	text-align: center;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(179,58,58,1);
+	letter-spacing: 0.5px;
+	text-align: left;
+	padding:10px;
+}
+#Find_Us {
+	left: 848px;
+	top: 4769px;
+	position: absolute;
+	overflow: visible;
+	width: 226px;
+	white-space: nowrap;
+	line-height: 60px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(128,0,0,1);
+	letter-spacing: 0.5px;
+}
+#placeholder {
+	position: absolute;
+	width: 125px;
+	height: 125px;
+	left: 898px;
+	top: 4642px;
+	overflow: visible;
+}
+#Rectangle_24 {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 679px;
+	height: 537px;
+	left: 651px;
+	top: 4870px;
+	overflow: visible;
+}
+#menu {
+	position: absolute;
+	width: 1440px;
+	height: 40px;
+	left: 240px;
+	top: 61px;
+	overflow: visible;
+}
+#Rectangle_25 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_25 {
+	position: absolute;
+	overflow: visible;
+	width: 1440px;
+	height: 28px;
+	left: 0px;
+	top: 3px;
+}
+#Home {
+	left: 994px;
+	top: 5px;
+	position: absolute;
+	overflow: visible;
+	width: 75px;
+	height: 40px;
+	text-align: left;
+font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,165,0,1);
+}
+#Designs {
+	left: 1087px;
+	top: 5px;
+	position: absolute;
+	overflow: visible;
+	width: 71px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 0.5px;
+}
+#Contact_Us {
+	left: 1196px;
+	top: 5px;
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 0.5px;
+}
+#About_Us {
+	left: 1333px;
+	top: 5px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 0.5px;
+}
+#footer {
+	position: absolute;
+	width: 1558px;
+	height: 490px;
+	left: 186px;
+	top: 5840px;
+	overflow: visible;
+}
+#Rectangle_26 {
+	fill: rgba(255,165,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_26 {
+	position: absolute;
+	overflow: visible;
+	width: 1558px;
+	height: 490px;
+	left: 0px;
+	top: 0px;
+}
+#tik-tok {
+	position: absolute;
+	width: 47px;
+	height: 47px;
+	left: 672px;
+	top: 29px;
+	overflow: visible;
+}
+#youtube {
+	position: absolute;
+	width: 47px;
+	height: 47px;
+	left: 751px;
+	top: 29px;
+	overflow: visible;
+}
+#instagram {
+	position: absolute;
+	width: 47px;
+	height: 47px;
+	left: 830px;
+	top: 29px;
+	overflow: visible;
+}
+#Copyright__2025 {
+	left: 705px;
+	top: 451px;
+	position: absolute;
+	overflow: visible;
+	width: 140px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1px;
+}
+#Line_14 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_14 {
+	overflow: visible;
+	position: absolute;
+	width: 619.5px;
+	height: 1px;
+	left: 909px;
+	top: 52.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_15 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_15 {
+	overflow: visible;
+	position: absolute;
+	width: 619.5px;
+	height: 1px;
+	left: 20.5px;
+	top: 52.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#supportxolanigroupcoke {
+	left: 95px;
+	top: 133px;
+	position: absolute;
+	overflow: visible;
+	width: 208px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1px;
+}
+#Helpline_254704717864 {
+	left: 93px;
+	top: 182px;
+	position: absolute;
+	overflow: visible;
+	width: 203px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1px;
+}
+#Find_Us_Kenyatta_Road_Thika_Su {
+	left: 93px;
+	top: 231px;
+	position: absolute;
+	overflow: visible;
+	width: 414px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1px;
+}
+#Home_du {
+	left: 743px;
+	top: 124px;
+	position: absolute;
+	overflow: visible;
+	width: 44px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1px;
+	cursor: pointer;
+}
+#Designs_dv {
+	left: 744px;
+	top: 173px;
+	position: absolute;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1px;
+	cursor: pointer;
+}
+#Contact_Us_dw {
+	left: 742px;
+	top: 222px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1px;
+	cursor: pointer;
+}
+#About_Us_dx {
+	left: 740px;
+	top: 271px;
+	position: absolute;
+	overflow: visible;
+	width: 70px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1px;
+	cursor: pointer;
+}
+#placeholder_dy {
+	position: absolute;
+	width: 34px;
+	height: 34px;
+	left: 373px;
+	top: 191px;
+	overflow: visible;
+}
+
+#email_rec {
+	position: absolute;
+	overflow: visible;
+	width: 299px;
+	height: 40px;
+	left: 1163px;
+	top: 207px;
+	border-style: solid;
+	border-radius: 10px;
+	padding: 10px;
+}
+
+#Rectangle_28 {
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	height: 48px;
+	left: 1286px;
+	top: 280px;
+	overflow: visible;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 0.5px;
+	border-style: solid;
+	border-radius: 10px;
+	padding: 10px;
+	background-color: #ffffff;
+	text-align: center;
+	cursor: pointer;
+}
+#Subscribe {
+	left: 1286px;
+	top: 293px;
+	position: absolute;
+	overflow: visible;
+	width: 156px;
+	height: 44px;
+	line-height: 60px;
+	margin-top: -20px;
+	text-align: center;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 0.5px;
+}
+#Email_d {
+	left: 1157px;
+	top: 172px;
+	position: absolute;
+	overflow: visible;
+	width: 110px;
+	height: 47px;
+	line-height: 60px;
+	margin-top: -20px;
+	text-align: center;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,0,17,1);
+	letter-spacing: 0.5px;
+}
+#Subscribe_to_Newsletter {
+	left: 1178px;
+	top: 130px;
+	position: absolute;
+	overflow: visible;
+	width: 183px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1px;
+}
+#Mask_Group_3 {
+	position: absolute;
+	width: 879px;
+	height: 600px;
+	left: 467px;
+	top: 779px;
+	overflow: visible;
+	display: none;
+    src:url("");
+}
