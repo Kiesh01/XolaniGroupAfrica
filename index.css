@@ -900,7 +900,7 @@
 	letter-spacing: 0.5px;
 }
 #dena-skulskaya-5SwSKuH5aH8-uns {
-	opacity: 0.17;
+	opacity: 70%;
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
 	position: absolute;
 	width: 538px;
@@ -910,7 +910,7 @@
 	overflow: visible;
 }
 #glenn-diaz-qZanUpmMrdk-unsplas {
-	opacity: 0.17;
+	opacity: 70%;
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
 	position: absolute;
 	width: 538px;
@@ -937,6 +937,14 @@
 	left: 363px;
 	top: 3976px;
 }
+#profi{
+	position: absolute;
+	overflow: visible;
+	width: 208px;
+	height: 217px;
+	left: 363px;
+	top: 3976px;
+}
 #Rectangle_7 {
 	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
@@ -948,6 +956,14 @@
 }
 .Rectangle_7 {
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 208px;
+	height: 217px;
+	left: 1000px;
+	top: 3976px;
+}
+#profi2{
 	position: absolute;
 	overflow: visible;
 	width: 208px;
